@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hi there, I'm Peter - aka [Pete's Pages](https://petespages.co.uk) 👋
+
+# Blog posts
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
 
 <!--
 **nicholsonpeter/nicholsonpeter** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
