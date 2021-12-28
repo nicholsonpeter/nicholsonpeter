@@ -1,5 +1,5 @@
 ### Hi there, I'm Peter - aka [Pete's Pages](https://petespages.co.uk) 👋
-[![Website](https://img.shields.io/website?label=petespages.co.uk&style=for-the-badge&url=https://petespages.co.uk.com)](https://petespages.co.uk)
+[![Website](https://img.shields.io/website?label=petespages.co.uk&style=for-the-badge&url=https://petespages.co.uk)](https://petespages.co.uk)
 
 
 ###📕 Latest Blog Posts
@@ -17,7 +17,8 @@
 <details>
   <summary>:zap: GitHub Stats</summary>
   
-[Pete's GitHub stats](https://github-readme-stats.vercel.app/api?username=nicholsonpeter&show_icons=true)
+[![Pete's GitHub stats](https://github-readme-stats.vercel.app/api?username=nicholsonpeter&show_icons=true&hide=issues,contribs)
+)](https://github.com/anuraghazra/github-readme-stats)
 
 </details>
 
