@@ -11,7 +11,7 @@
 
 ---
 
-[![Pete's GitHub stats](https://github-readme-stats.vercel.app/api?username=nicholsonpeter&show_icons=true)
+[![Pete's GitHub stats](https://github-readme-stats.vercel.app/api?username=nicholsonpeter&show_icons=true&hide=issues,contribs)
 )](https://github.com/anuraghazra/github-readme-stats)
 
 
