@@ -1,6 +1,6 @@
 ### Hi there, I'm Peter - aka [Pete's Pages](https://petespages.co.uk) 👋
 
-# Blog posts
+### Blog posts
 <!-- BLOG-POST-LIST:START -->
 - [Sorry YNAB, I&#39;m moving on](https://petespages.co.uk/sorry-ynab-its-time-to-move-on/)
 - [Envelope Budgeting and Why It Can Change Your Life](https://petespages.co.uk/envelope-budgeting-and-why-it-can-change-your-life/)
@@ -8,6 +8,12 @@
 - [5 steps to become financially confident](https://petespages.co.uk/5-steps-to-become-financially-confident/)
 - [How to Ace a Job Interview - 10 Tips You Need to Know](https://petespages.co.uk/how-to-ace-a-job-interview-10-tips-you-need-to-know/)
 <!-- BLOG-POST-LIST:END -->
+
+---
+
+[![Pete's GitHub stats](https://github-readme-stats.vercel.app/api?username=nicholsonpeter&show_icons=true)
+)](https://github.com/anuraghazra/github-readme-stats)
+
 
 <!--
 **nicholsonpeter/nicholsonpeter** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
