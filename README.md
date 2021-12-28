@@ -24,17 +24,11 @@
 ---
 <details>
   <summary>:zap: Recent Activity</summary>
-<!--RECENT_ACTIVITY:start-->
-1. 📔 Created new repository [nicholsonpeter/nicholsonpeter](https://github.com/nicholsonpeter/nicholsonpeter)
-2. 🔱 Forked [shaka04/smart](https://github.com/shaka04/smart) from [royalfig/smart](https://github.com/royalfig/smart)
-3. ⭐ Starred [royalfig/smart](https://github.com/royalfig/smart)
-4. ⭐ Starred [buckets/application](https://github.com/buckets/application)
-5. 🔱 Forked [shaka04/Pandas-Data-Science-Tasks](https://github.com/shaka04/Pandas-Data-Science-Tasks) from [KeithGalli/Pandas-Data-Science-Tasks](https://github.com/KeithGalli/Pandas-Data-Science-Tasks)
-<!--RECENT_ACTIVITY:end-->
 
-<!--RECENT_ACTIVITY:last_update-->
-Last Updated: Tuesday, December 28th, 2021, 3:38:46 PM
-<!--RECENT_ACTIVITY:last_update_end-->
+  <!--RECENT_ACTIVITY:start-->
+
+  <!--RECENT_ACTIVITY:last_update-->
+  
 </details>
 
 <details>
