@@ -10,7 +10,7 @@
 - 🏆 2021 Achievement: Passing the [Google Data Analytics Certificate](https://www.credly.com/badges/ab011243-8d21-428a-b2b9-c48b4401adaf)
 
 
-###📕 Latest Blog Posts
+### 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
 - [Sorry YNAB, I&#39;m moving on](https://petespages.co.uk/sorry-ynab-its-time-to-move-on/)
 - [Envelope Budgeting and Why It Can Change Your Life](https://petespages.co.uk/envelope-budgeting-and-why-it-can-change-your-life/)
