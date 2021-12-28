@@ -22,9 +22,10 @@
 ➡️ [more blog posts...](https://petespages.co.uk)
 
 ---
-
+<details>
+  <summary>:zap: Recent Activity</summary>
 <!--START_SECTION:activity-->
-
+</details>
 ---
 
 <details>
