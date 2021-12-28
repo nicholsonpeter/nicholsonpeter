@@ -12,11 +12,11 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Budget With Buckets](https://petespages.co.uk/budget-with-buckets/)
 - [Sorry YNAB, I&#39;m moving on](https://petespages.co.uk/sorry-ynab-its-time-to-move-on/)
 - [Envelope Budgeting and Why It Can Change Your Life](https://petespages.co.uk/envelope-budgeting-and-why-it-can-change-your-life/)
 - [Failure is the better option](https://petespages.co.uk/failure-is-the-better-option/)
 - [5 steps to become financially confident](https://petespages.co.uk/5-steps-to-become-financially-confident/)
-- [How to Ace a Job Interview - 10 Tips You Need to Know](https://petespages.co.uk/how-to-ace-a-job-interview-10-tips-you-need-to-know/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://petespages.co.uk)
