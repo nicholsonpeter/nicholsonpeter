@@ -22,6 +22,11 @@
 ➡️ [more blog posts...](https://petespages.co.uk)
 
 ---
+
+<!--START_SECTION:activity-->
+
+---
+
 <details>
   <summary>:zap: GitHub Stats</summary>
   
