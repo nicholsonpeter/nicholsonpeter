@@ -12,11 +12,11 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Libraries within Kent County Council - Data Analysis](https://petespages.co.uk/libraries-within-kent-county-council-data-analysis/)
 - [My Top 5 Books 2021](https://petespages.co.uk/my-top-5-books-2021/)
 - [Budget With Buckets](https://petespages.co.uk/budget-with-buckets/)
 - [Sorry YNAB, I&#39;m moving on](https://petespages.co.uk/sorry-ynab-its-time-to-move-on/)
 - [Envelope Budgeting and Why It Can Change Your Life](https://petespages.co.uk/envelope-budgeting-and-why-it-can-change-your-life/)
-- [Failure is the better option](https://petespages.co.uk/failure-is-the-better-option/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://petespages.co.uk)
