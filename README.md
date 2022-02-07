@@ -5,7 +5,6 @@
 
 ## I'm a random guy in the UK with a passion for learning
 
-- 🌱 I’m currently learning chess...! 🤣
 - 👯 I’m looking to broaden my knowledge in data analytics
 - 🏆 2021 Achievement: Passing the [Google Data Analytics Certificate](https://www.credly.com/badges/ab011243-8d21-428a-b2b9-c48b4401adaf)
 
