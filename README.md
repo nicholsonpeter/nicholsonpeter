@@ -1,5 +1,5 @@
-## Hi there, I'm Peter - aka [Pete's Pages](https://petespages.co.uk) 👋
-[![Website](https://img.shields.io/website?label=petespages.co.uk&style=for-the-badge&url=https://petespages.co.uk)](https://petespages.co.uk)
+## Hi there, I'm Peter - aka [Pete's Pages](https://petenicholson.co.uk) 👋
+[![Website](https://img.shields.io/website?label=petenicholson.co.uk&style=for-the-badge&url=https://petenicholson.co.uk)](https://petenicholson.co.uk)
 [![Twitter Follow](https://img.shields.io/twitter/follow/PetesPages?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https://github.com/nicholsonpeter&screen_name=PetesPages)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/peter-nicholson88/)
 
