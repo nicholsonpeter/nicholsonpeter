@@ -11,11 +11,11 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Can we learn from lobsters? Jordan Peterson thinks so.](https://petenicholson.co.uk/what-we-can-learn-from-lobsters/)
 - [You own all of your time](https://petenicholson.co.uk/you-own-all-of-your-time/)
 - [How to update Ghost on DigitalOcean](https://petenicholson.co.uk/how-to-update-ghost-on-digital-ocean/)
 - [Atomic Habits - Book Review](https://petenicholson.co.uk/atomic-habits-book-review/)
 - [Libraries within Kent County Council - Data Analysis](https://petenicholson.co.uk/libraries-within-kent-county-council-data-analysis/)
-- [My Top 5 Books 2021](https://petenicholson.co.uk/my-top-5-books-2021/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://petespages.co.uk)
