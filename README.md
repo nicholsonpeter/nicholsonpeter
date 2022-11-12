@@ -18,7 +18,7 @@
 - [Exploratory Data Analysis of Kent County Council Library Use &lpar;My First Python EDA!&rpar;](https://petenicholson.co.uk/exploratory-data-analysis-of-kent-county-council-library-use-my-first-python-eda/)
 <!-- BLOG-POST-LIST:END -->
 
-➡️ [more blog posts...](https://petespages.co.uk)
+➡️ [more blog posts...](https://petenicholson.co.uk)
 
 ---
 <details>
