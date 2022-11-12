@@ -11,11 +11,11 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
-- [Can we learn from lobsters? Jordan Peterson thinks so.](https://petenicholson.co.uk/what-we-can-learn-from-lobsters/)
-- [You own all of your time](https://petenicholson.co.uk/you-own-all-of-your-time/)
-- [How to update Ghost on DigitalOcean](https://petenicholson.co.uk/how-to-update-ghost-on-digital-ocean/)
-- [Atomic Habits - Book Review](https://petenicholson.co.uk/atomic-habits-book-review/)
-- [Libraries within Kent County Council - Data Analysis](https://petenicholson.co.uk/libraries-within-kent-county-council-data-analysis/)
+- [Jet Reports 101 - Creating User Defined Options](https://petenicholson.co.uk/jet-reports-101-creating-user-defined-options/)
+- [How To Talk](https://petenicholson.co.uk/how-to-talk/)
+- [Power BI: DAX - Calculated Measures &amp; Columns](https://petenicholson.co.uk/power-bi-dax-calculated-measures-columns/)
+- [Jet Reports 101 - Scheduling Reports with Jet Scheduler](https://petenicholson.co.uk/jet-reports-101-scheduling-reports-with-jet-scheduler/)
+- [Exploratory Data Analysis of Kent County Council Library Use &lpar;My First Python EDA!&rpar;](https://petenicholson.co.uk/exploratory-data-analysis-of-kent-county-council-library-use-my-first-python-eda/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://petespages.co.uk)
