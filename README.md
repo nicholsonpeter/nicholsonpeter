@@ -11,11 +11,11 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [The MILES Framework &lpar;The Unfair Advantage&rpar;](https://petenicholson.co.uk/the-miles-framework/)
 - [Jet Reports 101 - Creating User Defined Options](https://petenicholson.co.uk/jet-reports-101-creating-user-defined-options/)
 - [How To Talk](https://petenicholson.co.uk/how-to-talk/)
 - [Power BI: DAX - Calculated Measures &amp; Columns](https://petenicholson.co.uk/power-bi-dax-calculated-measures-columns/)
 - [Jet Reports 101 - Scheduling Reports with Jet Scheduler](https://petenicholson.co.uk/jet-reports-101-scheduling-reports-with-jet-scheduler/)
-- [Exploratory Data Analysis of Kent County Council Library Use &lpar;My First Python EDA!&rpar;](https://petenicholson.co.uk/exploratory-data-analysis-of-kent-county-council-library-use-my-first-python-eda/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://petenicholson.co.uk)
