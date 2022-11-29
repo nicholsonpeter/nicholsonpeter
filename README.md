@@ -11,11 +11,11 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [The Miles Framework - How you can find your &quot;Unfair Advantages&quot;](https://petenicholson.co.uk/the-miles-framework-how-you-can/)
 - [EDA of Horror Films &lpar;1950 - Present&rpar;](https://petenicholson.co.uk/eda-of-horror-films-1950-present/)
 - [The MILES Framework &lpar;The Unfair Advantage&rpar;](https://petenicholson.co.uk/the-miles-framework/)
 - [Jet Reports 101 - Creating User Defined Options](https://petenicholson.co.uk/jet-reports-101-creating-user-defined-options/)
 - [How To Talk](https://petenicholson.co.uk/how-to-talk/)
-- [Power BI: DAX - Calculated Measures &amp; Columns](https://petenicholson.co.uk/power-bi-dax-calculated-measures-columns/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://petenicholson.co.uk)
