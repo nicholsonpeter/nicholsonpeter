@@ -11,11 +11,11 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Using Power BI for your business](https://petenicholson.co.uk/using-power-bi-for-your-business/)
 - [What role does candor play in leadership?](https://petenicholson.co.uk/what-role-does-candor-play-in-leadership/)
 - [Excel vs. Power BI - which one you should use](https://petenicholson.co.uk/excel-vs-power-bi-which-one-you-should-use/)
 - [Better Communication - The GPS Method](https://petenicholson.co.uk/better-communication-the-gps-method/)
 - [Improve Your Alt Text For Graphs](https://petenicholson.co.uk/improve-your-alt-text-for-graphs/)
-- [5 Reasons To Move Your ERP To The Cloud](https://petenicholson.co.uk/5-reasons-to-move-your-erp-to-the-cloud/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://petenicholson.co.uk)
