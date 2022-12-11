@@ -11,11 +11,11 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [How To Implement A Data Warehouse](https://petenicholson.co.uk/how-to-implement-a-data-warehouse/)
 - [Basic Data Extraction Using SQL](https://petenicholson.co.uk/basic-data-extraction-using-sql/)
 - [Using Power BI for your business](https://petenicholson.co.uk/using-power-bi-for-your-business/)
 - [What role does candor play in leadership?](https://petenicholson.co.uk/what-role-does-candor-play-in-leadership/)
 - [Excel vs. Power BI - which one you should use](https://petenicholson.co.uk/excel-vs-power-bi-which-one-you-should-use/)
-- [Better Communication - The GPS Method](https://petenicholson.co.uk/better-communication-the-gps-method/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://petenicholson.co.uk)
