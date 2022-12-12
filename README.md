@@ -11,11 +11,11 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Top 5 Good Practices when using SQL](https://petenicholson.co.uk/top-5-good-practices-when-using-sql/)
 - [4 disadvantages to using the horrible pie chart](https://petenicholson.co.uk/4-disadvantages-to-using-the-horrible-pie-chart/)
 - [How To Implement A Data Warehouse](https://petenicholson.co.uk/how-to-implement-a-data-warehouse/)
 - [Basic Data Extraction Using SQL](https://petenicholson.co.uk/basic-data-extraction-using-sql/)
 - [Using Power BI for your business](https://petenicholson.co.uk/using-power-bi-for-your-business/)
-- [What role does candor play in leadership?](https://petenicholson.co.uk/what-role-does-candor-play-in-leadership/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://petenicholson.co.uk)
