@@ -11,11 +11,11 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [What is the &quot;Infinite Game&quot;?](https://petenicholson.co.uk/what-is-the-infinite-game/)
 - [The importance of professional development and training programs](https://petenicholson.co.uk/the-importance-of-professional-development-and-training-programs/)
 - [How Tasks Are Needed To Run A Data Warehouse?](https://petenicholson.co.uk/how-tasks-are-needed-to-run-a-data-warehouse/)
 - [Top 5 Good Practices when using SQL](https://petenicholson.co.uk/top-5-good-practices-when-using-sql/)
 - [4 disadvantages to using the horrible pie chart](https://petenicholson.co.uk/4-disadvantages-to-using-the-horrible-pie-chart/)
-- [How To Implement A Data Warehouse](https://petenicholson.co.uk/how-to-implement-a-data-warehouse/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://petenicholson.co.uk)
