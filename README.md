@@ -11,11 +11,11 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [The advantages of implementing a Data Warehouse](https://petenicholson.co.uk/the-advantages-of-implementing-a-data-warehouse/)
 - [My Top 10 Python Libraries For Data Analysis](https://petenicholson.co.uk/my-top-10-python-libraries-for-data-analysis/)
 - [The Courage To Be Disliked](https://petenicholson.co.uk/the-courage-to-be-disliked/)
 - [What is the &quot;Infinite Game&quot;?](https://petenicholson.co.uk/what-is-the-infinite-game/)
 - [The importance of professional development and training programs](https://petenicholson.co.uk/the-importance-of-professional-development-and-training-programs/)
-- [How Tasks Are Needed To Run A Data Warehouse?](https://petenicholson.co.uk/how-tasks-are-needed-to-run-a-data-warehouse/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://petenicholson.co.uk)
