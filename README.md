@@ -11,11 +11,11 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Show Your Work! The Importance Of Showing Your Creative Process](https://petenicholson.co.uk/show-your-work-the-importance-of-showing-your-creativity/)
 - [How To Build An IT Department When You Don&#39;t Have One](https://petenicholson.co.uk/how-to-build-an-it-department-when-you-dont-have-one/)
 - [How to get started with Python for data analysis](https://petenicholson.co.uk/how-to-get-started-with-python-for-data-analysis/)
 - [The advantages of implementing a Data Warehouse](https://petenicholson.co.uk/the-advantages-of-implementing-a-data-warehouse/)
 - [My Top 10 Python Libraries For Data Analysis](https://petenicholson.co.uk/my-top-10-python-libraries-for-data-analysis/)
-- [The Courage To Be Disliked](https://petenicholson.co.uk/the-courage-to-be-disliked/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://petenicholson.co.uk)
