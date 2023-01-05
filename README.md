@@ -11,11 +11,11 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Setting up for the year ahead &lpar;2023&rpar;](https://petenicholson.co.uk/setting-up-for-the-year-ahead-being-accountable/)
 - [Report or Dashboard?](https://petenicholson.co.uk/report-or-dashboard/)
 - [Leaders Eat Last - Simon Sinek](https://petenicholson.co.uk/leaders-eat-last-simon-sinek/)
 - [Best Practices For Visualising Data](https://petenicholson.co.uk/best-practices-for-visualising-data/)
 - [Show Your Work! The Importance Of Showing Your Creative Process](https://petenicholson.co.uk/show-your-work-the-importance-of-showing-your-creativity/)
-- [How To Build An IT Department When You Don&#39;t Have One](https://petenicholson.co.uk/how-to-build-an-it-department-when-you-dont-have-one/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://petenicholson.co.uk)
