@@ -11,11 +11,11 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Best Practices for Managing Remote Teams](https://petenicholson.co.uk/best-practices-for-managing-remote-teams/)
 - [Setting up for the year ahead &lpar;2023&rpar;](https://petenicholson.co.uk/setting-up-for-the-year-ahead-being-accountable/)
 - [Report or Dashboard?](https://petenicholson.co.uk/report-or-dashboard/)
 - [Leaders Eat Last - Simon Sinek](https://petenicholson.co.uk/leaders-eat-last-simon-sinek/)
 - [Best Practices For Visualising Data](https://petenicholson.co.uk/best-practices-for-visualising-data/)
-- [Show Your Work! The Importance Of Showing Your Creative Process](https://petenicholson.co.uk/show-your-work-the-importance-of-showing-your-creativity/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://petenicholson.co.uk)
