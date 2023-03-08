@@ -11,11 +11,11 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Dividing Customers into Four Quartiles Based on Total Revenue Using SQL and AdventureWorksDW2019](https://petenicholson.co.uk/dividing-customers-into-four-quartiles-based-on-total-revenue-using-sql-and-adventureworksdw2019/)
 - [Mastering Window Functions: How to Calculate a Moving Average in SQL](https://petenicholson.co.uk/mastering-window-functions-how-to-calculate-a-moving-average-in-sql/)
 - [Building a Scalable Data Pipeline: Extracting Sales Data from Navision to Snowflake](https://petenicholson.co.uk/building-a-scalable-data-pipeline-extracting-sales-data-from-navision-to-snowflake/)
 - [Exploratory Data Analysis &lpar;EDA&rpar; of UK Museums](https://petenicholson.co.uk/exploratory-data-analysis-eda-of-uk-museums/)
 - [Best Practices for Managing Remote Teams](https://petenicholson.co.uk/best-practices-for-managing-remote-teams/)
-- [Setting up for the year ahead &lpar;2023&rpar;](https://petenicholson.co.uk/setting-up-for-the-year-ahead-being-accountable/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://petenicholson.co.uk)
