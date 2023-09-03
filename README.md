@@ -11,11 +11,11 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [AZQR: Azure Quick Review](https://petenicholson.co.uk/azqr-azure-quick-review/)
 - [An Introduction to DAX](https://petenicholson.co.uk/an-introduction-to-dax/)
 - [Jet Reports 101 - Other Features of =NL&lpar;Lookup&rpar;](https://petenicholson.co.uk/jet-reports-101-features-of-nl-lookup/)
 - [Dividing Customers into Four Quartiles Based on Total Revenue Using SQL and AdventureWorksDW2019](https://petenicholson.co.uk/dividing-customers-into-four-quartiles-based-on-total-revenue-using-sql-and-adventureworksdw2019/)
 - [Mastering Window Functions: How to Calculate a Moving Average in SQL](https://petenicholson.co.uk/mastering-window-functions-how-to-calculate-a-moving-average-in-sql/)
-- [Building a Scalable Data Pipeline: Extracting Sales Data from Navision to Snowflake](https://petenicholson.co.uk/building-a-scalable-data-pipeline-extracting-sales-data-from-navision-to-snowflake/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://petenicholson.co.uk)
