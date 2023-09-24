@@ -11,11 +11,11 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [My Top 10 Power BI &#39;Best Practice&#39; Tips](https://petenicholson.co.uk/my-top-10-power-bi-best-practice-tips/)
 - [The Importance of a Date Table in your Data Model](https://petenicholson.co.uk/the-importance-of-a-date-table-in-your-data-model/)
 - [AZQR: Azure Quick Review](https://petenicholson.co.uk/azqr-azure-quick-review/)
 - [An Introduction to DAX](https://petenicholson.co.uk/an-introduction-to-dax/)
 - [Jet Reports 101 - Other Features of =NL&lpar;Lookup&rpar;](https://petenicholson.co.uk/jet-reports-101-features-of-nl-lookup/)
-- [Dividing Customers into Four Quartiles Based on Total Revenue Using SQL and AdventureWorksDW2019](https://petenicholson.co.uk/dividing-customers-into-four-quartiles-based-on-total-revenue-using-sql-and-adventureworksdw2019/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://petenicholson.co.uk)
