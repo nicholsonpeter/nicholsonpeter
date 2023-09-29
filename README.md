@@ -11,11 +11,11 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Why Power BI Project files are an important step forward for Microsoft](https://petenicholson.co.uk/why-power-bi-project-files-are-an-important-step/)
 - [My Top 10 Power BI &#39;Best Practice&#39; Tips](https://petenicholson.co.uk/my-top-10-power-bi-best-practice-tips/)
 - [The Importance of a Date Table in your Data Model](https://petenicholson.co.uk/the-importance-of-a-date-table-in-your-data-model/)
 - [AZQR: Azure Quick Review](https://petenicholson.co.uk/azqr-azure-quick-review/)
 - [An Introduction to DAX](https://petenicholson.co.uk/an-introduction-to-dax/)
-- [Jet Reports 101 - Other Features of =NL&lpar;Lookup&rpar;](https://petenicholson.co.uk/jet-reports-101-features-of-nl-lookup/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://petenicholson.co.uk)
