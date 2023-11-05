@@ -11,11 +11,11 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Medallion Architecture: Unmasking the Illusion of Perfection](https://petenicholson.co.uk/medallion-architecture-unmasking-the-illusion-of-perfection/)
 - [Using a pie chart? Boooo!](https://petenicholson.co.uk/using-a-pie-chart-boooo/)
 - [Why Power BI Project files are an important step forward for Microsoft](https://petenicholson.co.uk/why-power-bi-project-files-are-an-important-step/)
 - [My Top 10 Power BI &#39;Best Practice&#39; Tips](https://petenicholson.co.uk/my-top-10-power-bi-best-practice-tips/)
 - [The Importance of a Date Table in your Data Model](https://petenicholson.co.uk/the-importance-of-a-date-table-in-your-data-model/)
-- [AZQR: Azure Quick Review](https://petenicholson.co.uk/azqr-azure-quick-review/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://petenicholson.co.uk)
