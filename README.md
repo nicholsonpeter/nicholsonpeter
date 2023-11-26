@@ -1,12 +1,12 @@
 ## Hi there, I'm Peter - aka [Pete Nicholson Blog](https://petenicholson.co.uk) 👋
 [![Website](https://img.shields.io/website?label=petenicholson.co.uk&style=for-the-badge&url=https://petenicholson.co.uk)](https://petenicholson.co.uk)
-[![Twitter Follow](https://img.shields.io/twitter/follow/PetesPages?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https://github.com/nicholsonpeter&screen_name=PetesPages)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/peter-nicholson88/)
 
-## I'm a random guy in the UK with a passion for learning
+## Based un the UK with a passion for data visualisation, business intelligence, and developing better processes through IT systems.
 
 - 👯 I’m looking to broaden my knowledge in data analytics
-- 🏆 2021 Achievement: Passing the [Google Data Analytics Certificate](https://www.credly.com/badges/ab011243-8d21-428a-b2b9-c48b4401adaf)
+- 🏆 2023 Achievement: Building a Data Warehouse for a multi-national, multi-ERP business ready for driving better business insights
+- 🏆 2021 Achievement: Passing the Google Data Analytics Certificate
 
 
 ## 📕 Latest Blog Posts
