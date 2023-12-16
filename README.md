@@ -11,11 +11,11 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Jet Reports 101 - Using more than 10 filters in an NL&lpar;&rpar; function](https://petenicholson.co.uk/jet-reports-101/)
 - [Microsoft Build: AI](https://petenicholson.co.uk/microsoft-build-ai/)
 - [Keeping the Engine Running: Best Practices for Data Warehouse Maintenance](https://petenicholson.co.uk/keeping-the-engine-running-best-practices-for-data-warehouse-maintenance/)
 - [Navigating the World of Generative AI in Business: A Primer for IT Professionals](https://petenicholson.co.uk/navigating-the-world-of-generative-ai-in-business-a-primer-for-it-professionals/)
 - [Understanding Large Language Models: A Beginner’s Guide to How AI Understands and Generates Text](https://petenicholson.co.uk/understanding-large-language-models-a-beginners-guide-to-how-ai-understands-and-generates-text/)
-- [Using Your Own Data with Azure OpenAI: A Step-by-Step Guide](https://petenicholson.co.uk/using-your-own-data-with-azure-openai-a-step-by-step-guide/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://petenicholson.co.uk)
