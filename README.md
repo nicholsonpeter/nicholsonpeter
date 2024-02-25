@@ -11,11 +11,11 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [IBCS Styled Charts in Power BI](https://petenicholson.co.uk/ibcs-styled-charts-in-power-bi/)
 - [Good Data Visualisation - Who Are IBCS?](https://petenicholson.co.uk/good-data-visualisation-who-are-ibcs/)
 - [Jet Reports 101 - Using more than 10 filters in an NL&lpar;&rpar; function](https://petenicholson.co.uk/jet-reports-101/)
 - [Microsoft Build: AI](https://petenicholson.co.uk/microsoft-build-ai/)
 - [Keeping the Engine Running: Best Practices for Data Warehouse Maintenance](https://petenicholson.co.uk/keeping-the-engine-running-best-practices-for-data-warehouse-maintenance/)
-- [Navigating the World of Generative AI in Business: A Primer for IT Professionals](https://petenicholson.co.uk/navigating-the-world-of-generative-ai-in-business-a-primer-for-it-professionals/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://petenicholson.co.uk)
