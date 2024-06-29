@@ -11,11 +11,11 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Unlocking Efficiency: A Look at Power BI&#39;s Enhanced Report Format &lpar;PBIR&rpar;](https://petenicholson.co.uk/unlocking-efficiency-a-look-at-power-bis-enhanced-report-format-pbir/)
 - [Implementing a DW for non-tech people](https://petenicholson.co.uk/implementing-a-dw-for-non-tech-people/)
 - [IBCS Styled Charts in Power BI](https://petenicholson.co.uk/ibcs-styled-charts-in-power-bi/)
 - [Good Data Visualisation - Who Are IBCS?](https://petenicholson.co.uk/good-data-visualisation-who-are-ibcs/)
 - [Jet Reports 101 - Using more than 10 filters in an NL&lpar;&rpar; function](https://petenicholson.co.uk/jet-reports-101/)
-- [Microsoft Build: AI](https://petenicholson.co.uk/microsoft-build-ai/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://petenicholson.co.uk)
