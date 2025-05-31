@@ -11,11 +11,11 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Level Up Your Enterprise AI: Smarter Retrieval, Richer Data, Rock-Solid Security](https://petenicholson.co.uk/level-up-your-enterprise-ai-smarter-retrieval-richer-data-rock-solid-security/)
 - [Acumatica UK Roadshow - May 14th](https://petenicholson.co.uk/acumatica-uk-roadshow-may-14th/)
 - [Unlocking Efficiency: A Look at Power BI&#39;s Enhanced Report Format &lpar;PBIR&rpar;](https://petenicholson.co.uk/unlocking-efficiency-a-look-at-power-bis-enhanced-report-format-pbir/)
 - [Implementing a DW for non-tech people](https://petenicholson.co.uk/implementing-a-dw-for-non-tech-people/)
 - [IBCS Styled Charts in Power BI](https://petenicholson.co.uk/ibcs-styled-charts-in-power-bi/)
-- [Good Data Visualisation - Who Are IBCS?](https://petenicholson.co.uk/good-data-visualisation-who-are-ibcs/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://petenicholson.co.uk)
