@@ -11,11 +11,11 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [5 Reasons Your ERP Go-Live Will Fail &lpar;And How to Prevent It&rpar;](https://petenicholson.co.uk/5-reasons-your-erp-go-live-will-fail-and-how-to-prevent-it/)
 - [Acumatica Summit 2026: What Actually Matters &lpar;And What&#39;s Still Hype&rpar;](https://petenicholson.co.uk/acumatica-summit-2026-what-actually-matters-and-whats-still-hype/)
 - [Why Parallel Running Your ERP Systems Is Almost Never a Good Idea](https://petenicholson.co.uk/why-parallel-running-your-erp-systems-is-almost-never-a-good-idea/)
 - [Level Up Your Enterprise AI: Smarter Retrieval, Richer Data, Rock-Solid Security](https://petenicholson.co.uk/level-up-your-enterprise-ai-smarter-retrieval-richer-data-rock-solid-security/)
 - [Acumatica UK Roadshow - May 14th](https://petenicholson.co.uk/acumatica-uk-roadshow-may-14th/)
-- [Unlocking Efficiency: A Look at Power BI&#39;s Enhanced Report Format &lpar;PBIR&rpar;](https://petenicholson.co.uk/unlocking-efficiency-a-look-at-power-bis-enhanced-report-format-pbir/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://petenicholson.co.uk)
