@@ -11,11 +11,11 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [5 Reasons Your ERP Project Falls Apart Before Go-Live](https://petenicholson.co.uk/5-reasons-your-erp-project-falls-apart-before-go-live/)
 - [Why Your ERP Training Isn’t Working &lpar;And How to Fix It&rpar;](https://petenicholson.co.uk/why-your-erp-training-isnt-working-and-how-to-fix-it/)
 - [The Shipping Team&#39;s Secret Weapon: What a Modern ERP Can Do for Your Logistics Operation](https://petenicholson.co.uk/the-shipping-teams-secret-weapon-what-a-modern-erp-can-do-for-your-logistics-operation/)
 - [5 Reasons Your ERP Go-Live Will Fail &lpar;And How to Prevent It&rpar;](https://petenicholson.co.uk/5-reasons-your-erp-go-live-will-fail-and-how-to-prevent-it/)
 - [Acumatica Summit 2026: What Actually Matters &lpar;And What&#39;s Still Hype&rpar;](https://petenicholson.co.uk/acumatica-summit-2026-what-actually-matters-and-whats-still-hype/)
-- [Why Parallel Running Your ERP Systems Is Almost Never a Good Idea](https://petenicholson.co.uk/why-parallel-running-your-erp-systems-is-almost-never-a-good-idea/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://petenicholson.co.uk)
