@@ -2,7 +2,7 @@
 
 [![Website](https://img.shields.io/website?label=petenicholson.co.uk&style=for-the-badge&url=https://petenicholson.co.uk)](https://petenicholson.co.uk)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/peter-nicholson88/)
-[![Podcast](https://img.shields.io/badge/Podcast-ABCs_of_ERP-orange?style=for-the-badge)](https://petenicholson.co.uk)
+[![Podcast](https://img.shields.io/badge/Podcast-ABCs_of_ERP-orange?style=for-the-badge)](https://podcasts.apple.com/gb/podcast/the-abcs-of-erp-beyond/id1663062815)
 
 ## A Systems & Data Analyst based in the UK. I build the data infrastructure that connects ERP systems to meaningful business decisions.
 
