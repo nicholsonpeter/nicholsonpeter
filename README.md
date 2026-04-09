@@ -4,18 +4,17 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/peter-nicholson88/)
 [![Podcast](https://img.shields.io/badge/Podcast-ABCs_of_ERP-orange?style=for-the-badge)](https://petenicholson.co.uk)
 
-## Division Systems & Data Analyst at ITW Appliance Components, based in the UK. I build the data infrastructure that connects ERP systems to meaningful business decisions.
+## A Systems & Data Analyst based in the UK. I build the data infrastructure that connects ERP systems to meaningful business decisions.
 
 - 🔧 Day job: Acumatica ERP administration, Power BI semantic models, Azure SQL/Data Factory pipelines, Microsoft Fabric
 - 🎙️ Co-host of **The ABCs of ERP & Beyond** podcast with Nirav Shah and Emily Browning
-- 🌍 EU Global Chair of ITW's Young Professionals Network
 
-### What I'm working on
+### What I'm working on currently
 
 - 🤖 Acumatica MCP Server — connecting AI assistants to live ERP data via the Model Context Protocol
 - 📊 Revenue forecasting with LightGBM + Optuna across a multi-ERP, multi-division business
 - 🏭 Cross-division data architecture standardisation — ERP-agnostic medallion layer design
-- ⚡ EDI ingestion pipelines in Microsoft Fabric
+- ⚡ Data ingestion pipelines in Microsoft Fabric
 
 ### Stack
 
