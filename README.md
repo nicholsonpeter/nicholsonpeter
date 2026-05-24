@@ -32,11 +32,11 @@
 ## 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Four apps and a Mac Mini under the stairs](https://petenicholson.co.uk/four-apps-and-a-mac-mini-under-the-stairs/)
 - [Upgrade or Migrate? How to Tell Which Your ERP Project Really Is](https://petenicholson.co.uk/upgrade-or-migrate-how-to-tell-which-your-erp-project-really-is/)
 - [5 Conditions for a 6-Month ERP Implementation](https://petenicholson.co.uk/5-conditions-for-a-6-month-erp-implementation/)
 - [Teaching an LLM to use Acumatica](https://petenicholson.co.uk/teaching-an-llm-to-use-acumatica/)
 - [5 Reasons Your ERP Project Falls Apart Before Go-Live](https://petenicholson.co.uk/5-reasons-your-erp-project-falls-apart-before-go-live/)
-- [Why Your ERP Training Isn’t Working &lpar;And How to Fix It&rpar;](https://petenicholson.co.uk/why-your-erp-training-isnt-working-and-how-to-fix-it/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://petenicholson.co.uk)
