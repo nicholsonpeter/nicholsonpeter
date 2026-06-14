@@ -32,11 +32,11 @@
 ## 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [The semantic model finally has its moment](https://petenicholson.co.uk/the-semantic-model-finally-has-its-moment/)
 - [How to Choose an ERP: Where Do You Even Start?](https://petenicholson.co.uk/how-to-choose-an-erp-where-do-you-even-start/)
 - [The budget dashboard I promised you three years ago](https://petenicholson.co.uk/the-budget-dashboard-i-promised-you-three-years-ago/)
 - [Four apps and a Mac Mini under the stairs](https://petenicholson.co.uk/four-apps-and-a-mac-mini-under-the-stairs/)
 - [Upgrade or Migrate? How to Tell Which Your ERP Project Really Is](https://petenicholson.co.uk/upgrade-or-migrate-how-to-tell-which-your-erp-project-really-is/)
-- [5 Conditions for a 6-Month ERP Implementation](https://petenicholson.co.uk/5-conditions-for-a-6-month-erp-implementation/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://petenicholson.co.uk)
