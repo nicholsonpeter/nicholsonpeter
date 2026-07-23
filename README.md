@@ -32,11 +32,11 @@
 ## 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Your second ERP migration is a different project](https://petenicholson.co.uk/your-second-erp-migration-is-a-different-project/)
 - [Nobody models the Fabric bill until it lands](https://petenicholson.co.uk/nobody-models-the-fabric-bill-until-it-lands/)
 - [Semantic model sprawl is a symptom, not the disease](https://petenicholson.co.uk/semantic-model-sprawl-is-a-symptom-not-the-disease/)
 - [Keeping your ERP upgrades boring](https://petenicholson.co.uk/keeping-your-erp-upgrades-boring/)
 - [What to extract before you replace your ERP](https://petenicholson.co.uk/what-to-extract-before-you-replace-your-erp/)
-- [The semantic model finally has its moment](https://petenicholson.co.uk/the-semantic-model-finally-has-its-moment/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://petenicholson.co.uk)
