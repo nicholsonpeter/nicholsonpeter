@@ -32,11 +32,11 @@
 ## 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [The fourth single source of truth](https://petenicholson.co.uk/the-fourth-single-source-of-truth/)
 - [Should you downgrade your ERP?](https://petenicholson.co.uk/should-you-downgrade-your-erp/)
 - [We put an AI on the podcast. Then we talked about what actually breaks.](https://petenicholson.co.uk/we-put-an-ai-on-the-podcast-then-we-talked-about-what-actually-breaks/)
 - [Your second ERP migration is a different project](https://petenicholson.co.uk/your-second-erp-migration-is-a-different-project/)
 - [Nobody models the Fabric bill until it lands](https://petenicholson.co.uk/nobody-models-the-fabric-bill-until-it-lands/)
-- [Semantic model sprawl is a symptom, not the disease](https://petenicholson.co.uk/semantic-model-sprawl-is-a-symptom-not-the-disease/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://petenicholson.co.uk)
